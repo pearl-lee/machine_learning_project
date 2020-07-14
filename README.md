@@ -75,12 +75,6 @@ model이 가장 유사하다고 하는 작가명에 해당하는 웹툰 top10을
 
 
 #
+
 [웹툰이미지분류.pdf](https://github.com/pearl-lee/machine_learning_project/blob/dev/etc/webtoon_classification_CNN.pdf)
-
-
-
-
-
-
-
 
