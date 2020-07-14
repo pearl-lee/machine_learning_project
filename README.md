@@ -74,7 +74,8 @@ model이 가장 유사하다고 하는 작가명에 해당하는 웹툰 top10을
 <img width="960" alt="스크린샷 2020-05-28 오후 2 58 56" src="https://user-images.githubusercontent.com/46306443/83104459-c45abf00-a0f3-11ea-8441-b1454c608132.png">
 
 
-
+#
+[웹툰이미지분류.pdf](https://github.com/pearl-lee/machine_learning_project/blob/dev/etc/webtoon_classification_CNN.pdf)
 
 
 
